@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Text Editor ✍</h1>
+<h1 align="center" style="font-weight: bold;">Editor de texto ✍</h1>
 
 ![react](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 ![Underdevelopment](https://img.shields.io/badge/GraphQL-e10098?style=flat&logo=graphql)
@@ -39,7 +39,7 @@
 <h4>Install project</h4>
 
 ```
-git clone https://github.com/Fernanda-Kipper/text-editor.git
+git clone https://github.com/WaguinhoCarvalho/text-editor.git
 npm install
 ```
 
@@ -79,7 +79,7 @@ To get these values you need to create an Account on [HyGraph](https://app.hygra
 If you want to contribute, clone this repo, create your work branch and get your hands dirty!
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/text-editor.git
+git clone https://github.com/WaguinhoCarvalho/text-editor.git
 git checkout -b feature/NAME
 ```
 
