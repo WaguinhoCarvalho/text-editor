@@ -1,5 +1,6 @@
 name: Integração continua
 
+# on: pull_request (para qual pull request - todas as branch)
 on:
   push:
     branch: [develop]
