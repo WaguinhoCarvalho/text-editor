@@ -2,7 +2,7 @@ name: Integração continua
 
 on:
   push:
-    branch: [waguinho]
+    branch: [develop]
 
 jobs:
   integracao-continua:
