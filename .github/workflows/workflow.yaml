@@ -1,9 +1,11 @@
-name: Continuos Integration
+name: Integração continua
 
-on: pull_request
+on:
+  push:
+    branch: [waguinho]
 
 jobs:
-  continuos-integration:
+  integracao-continua:
     runs-on: ubuntu-latest
 
     steps:
